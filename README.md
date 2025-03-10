@@ -1,5 +1,12 @@
-# Under construction as long as "Under Pressure" remains relevant
+# Under construction as long as "Under Pressure" remains relevant + simple-and-pure-cv
 It hasn't changed. But since both this repositore and the "simple-cv" basically had the same intent, I deleted it and upload its content here while I'm still to build and publish a proper portfolio online. Still gotta update some info and check how it is looking, though, but that's stuff for another day.
+<br>
+<br>
+
+In the words of the deleted repo:<br>
+`a CV in nothing but HTML and CSS, which I NEED TO REVIEW AND UPDATE BTW BUT HEAVEN KNOWS WHEN THAT WILL HAPPEN HERE`
+
+![image](https://gifdb.com/images/thumbnail/sailor-moon-raining-gfy89fj8wi5ib2l7.gif)
 
 <br>
 <br>
