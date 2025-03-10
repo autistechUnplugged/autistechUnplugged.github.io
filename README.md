@@ -20,12 +20,12 @@ It hasn't changed. But since both this repositore and the "simple-cv" basically 
 <img height="auto" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDNyZHFvdTVwaXczcGc5d203YWI2eDYyZjQycnNucWljanc0aTB1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3m8S6W0d9VQbkByldn/giphy.gif">
 
 <br><br>
-- [ ] ...publish a proper portfolio and blog before the world ends! <br>
+- [ ] ...publish a proper portfolio and blog before the world ends!
 <br>
 <br>
 
 <img src="https://i.gifer.com/fzaW.gif" height="auto" />
-_prayers, prayers..._
+<i>prayers, prayers...</i>
 
 
 
